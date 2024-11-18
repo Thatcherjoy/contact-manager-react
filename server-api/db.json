@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "efcd9f31-9bf4-41a1-9e65-4d2bbe449a58",
+      "name": "Ikhwan",
+      "email": "ikhwan619@gmail.com"
+    },
+    {
+      "id": "53c07b1f-10ab-4026-8c6a-bc7d110e46d9",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "5ce551a5-2e81-4b48-b8fd-d2b6c764dd59",
+      "name": "test5",
+      "email": "test5@gmail.com"
+    },
+    {
+      "id": "59adbcd8-be14-4759-82ca-0764a36f07a5",
+      "name": "test12",
+      "email": "test12@gmail.com"
+    },
+    {
+      "id": "6b8e6ea7-3538-46b0-ba2a-7feb3ae3afcb",
+      "name": "test1",
+      "email": "ikhwan619@gmail.com"
+    }
+  ]
+}
